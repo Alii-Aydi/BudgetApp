@@ -1,16 +1,11 @@
 # budgettn
 
-A new Flutter project.
+Simple fast budget app for personal finance using flutter framework
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Capture d’écran (16)](https://github.com/Alii-Aydi/BudgetApp/assets/119710302/3dd8ead0-8610-4fae-81b7-f79e2c824c32)
+![Capture d’écran (21)](https://github.com/Alii-Aydi/BudgetApp/assets/119710302/2e049121-0632-4252-94a8-924493064ef6)
+![Capture d’écran (20)](https://github.com/Alii-Aydi/BudgetApp/assets/119710302/177ad19d-89e6-4e92-a7dc-a75ee39af7f6)
+![Capture d’écran (19)](https://github.com/Alii-Aydi/BudgetApp/assets/119710302/b54cd84c-46c7-4a12-aeab-21b0f6c6c399)
+![Capture d’écran (18)](https://github.com/Alii-Aydi/BudgetApp/assets/119710302/c3df6f40-5350-4972-9446-926b5209c82e)
+![Capture d’écran (17)](https://github.com/Alii-Aydi/BudgetApp/assets/119710302/8d07c4c4-1f76-42c7-b7c6-8f9738bc8ab6)

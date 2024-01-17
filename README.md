@@ -1,6 +1,6 @@
 # budgettn
 
-Simple fast budget app for personal finance using flutter framework
+Simple fast budget app for personal finance using Flutter framework and Firebase
 
 
 ![Capture d’écran (16)](https://github.com/Alii-Aydi/BudgetApp/assets/119710302/3dd8ead0-8610-4fae-81b7-f79e2c824c32)
